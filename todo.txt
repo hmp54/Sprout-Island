@@ -1,0 +1,23 @@
+MAIN MENU SCREEN
+
+I. MAIN ISLAND
+- go back to foreground objects part of the tutorial 
+- fix the collision issues/delete the bridge lol 
+- Add door animations, sounds
+- Add transitions to other buildings 
+
+
+II. PLAYER HOME
+-Create map. Add empty shelves, etc...
+-Add collision detection 
+-Add transition from main island to player home 
+
+
+III. PLANT NURSERY
+-Create + add map 
+-Create + add collision detection 
+
+MISC
+-separate player movement implementation from the main island implementation 
+-separate collision detection implementation from the island level 
+-figure out how to make walking directions seem more natural (like palyer stays facing where you last pointed them)
